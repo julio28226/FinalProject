@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header {
+    padding: 10px 5px;
+    text-align: center;
+    background-color: lightblue;
+}
+
+/* .container {
+    width: 80%;
+    justify-self: center;
+} */
